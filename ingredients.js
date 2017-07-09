@@ -12,5 +12,5 @@ for (var i = 0; i < ingredients.length; i++) {
 }
 
 for (var backwards = ingredients.length - 1; backwards >= 0; backwards--) {
-  console.log(ingredients[backwards])
+  console.log(ingredients[backwards]);
 }
